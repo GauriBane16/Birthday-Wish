@@ -1,18 +1,34 @@
-# Birthday-Wish
-A Hatke Style to Wish Birthday
+Happy Birthday
 
-Just fork this Repo to your <Github_username>.github.io, Make some Required Changes and Just Send its Link to the Birthday Boy/Girl.
-Detailed Steps:
+A Happy Birthday animation design in CSS3, HTML5.
 
+URL: http://ayusharma.github.io/birthday/
 
-1.On Index1.html you need to change the Day and the Description.
+Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
-2.On Index2.html you need to add some Irrelevant Significations of that Particular Date.
+# Setup
 
-3.On Index3.html you need to add the Photo of your Friend and change the src attribute of the img tag.
+## If you have python installed:
+```
+cd Birthday
+```
 
+&& 
 
-Just Wait for their Reaction!! :)
+```
+python -m SimpleHTTPServer --port  8081
+```
 
+visit http://localhost:8081 in your browser.
 
-Any new Suggestions are Welcome!
+## If you have nodejs installed
+```
+npm install
+```
+&&
+
+```
+npm run server-node
+```
+visit http://localhost:8081 in your browser.
+
